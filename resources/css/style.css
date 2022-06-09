@@ -162,7 +162,7 @@ header .logo:hover {
     width: 100%;
     height: 80vh;
     padding-top: 40px;
-    background-color: lightgray;
+    background-color: darkgray;
     
 }
 
@@ -181,7 +181,6 @@ header .logo:hover {
 #about .container {
     display: flex;
     align-items: center;
-    background-color: bisque;
     margin-top: 50px;
 }
 
